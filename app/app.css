@@ -36,3 +36,9 @@ body {
   font-weight: 600;
   font-display: swap;
 }
+
+.cGradientHor {
+    background: linear-gradient(270deg, #00afff -6.25%, #4d55c2 5.14%, #970088 22.36%, #b50b64 38.37%, #cc1448 52.19%, #dd1a34 66%, #e71e28 80.87%, #eb2024 94.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
